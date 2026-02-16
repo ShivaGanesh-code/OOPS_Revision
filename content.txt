@@ -1,0 +1,4 @@
+class and obj (example)
+class has data/attributes and functions/methods
+Advantages of OOPS:
+1. You can create your own datatypes.
