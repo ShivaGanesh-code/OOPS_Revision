@@ -1,5 +1,5 @@
 # Single inheritance
-
+"""
 class Parent:
     def __init__(self, name):
         self.name = name
@@ -9,7 +9,7 @@ class Parent:
 class Child(Parent):
     def play(self):
         print(f"{self.name} is playing")
-
+"""
 
 # Multilevel Inheritance
 class GrandParent:
